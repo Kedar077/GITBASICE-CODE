@@ -1,7 +1,8 @@
 def sum():
     a = 10
     b = 20
-    c = a + b
+    f = 20
+    c = a + b + f
     print(c)
 
 sum()
